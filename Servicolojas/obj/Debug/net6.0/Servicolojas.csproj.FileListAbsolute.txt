@@ -1,0 +1,15 @@
+C:\Users\thais.spinoza\Desktop\Servicolojas\Servicolojas\bin\Debug\net6.0\Servicolojas.exe
+C:\Users\thais.spinoza\Desktop\Servicolojas\Servicolojas\bin\Debug\net6.0\Servicolojas.deps.json
+C:\Users\thais.spinoza\Desktop\Servicolojas\Servicolojas\bin\Debug\net6.0\Servicolojas.runtimeconfig.json
+C:\Users\thais.spinoza\Desktop\Servicolojas\Servicolojas\bin\Debug\net6.0\Servicolojas.dll
+C:\Users\thais.spinoza\Desktop\Servicolojas\Servicolojas\bin\Debug\net6.0\Servicolojas.pdb
+C:\Users\thais.spinoza\Desktop\Servicolojas\Servicolojas\obj\Debug\net6.0\Servicolojas.csproj.AssemblyReference.cache
+C:\Users\thais.spinoza\Desktop\Servicolojas\Servicolojas\obj\Debug\net6.0\Servicolojas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais.spinoza\Desktop\Servicolojas\Servicolojas\obj\Debug\net6.0\Servicolojas.AssemblyInfoInputs.cache
+C:\Users\thais.spinoza\Desktop\Servicolojas\Servicolojas\obj\Debug\net6.0\Servicolojas.AssemblyInfo.cs
+C:\Users\thais.spinoza\Desktop\Servicolojas\Servicolojas\obj\Debug\net6.0\Servicolojas.csproj.CoreCompileInputs.cache
+C:\Users\thais.spinoza\Desktop\Servicolojas\Servicolojas\obj\Debug\net6.0\Servicolojas.dll
+C:\Users\thais.spinoza\Desktop\Servicolojas\Servicolojas\obj\Debug\net6.0\refint\Servicolojas.dll
+C:\Users\thais.spinoza\Desktop\Servicolojas\Servicolojas\obj\Debug\net6.0\Servicolojas.pdb
+C:\Users\thais.spinoza\Desktop\Servicolojas\Servicolojas\obj\Debug\net6.0\Servicolojas.genruntimeconfig.cache
+C:\Users\thais.spinoza\Desktop\Servicolojas\Servicolojas\obj\Debug\net6.0\ref\Servicolojas.dll
